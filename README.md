@@ -2,6 +2,7 @@
 
 ## Lessons
 * [Lesson 1: Retrospective](./lessons/retrospective)
+* [Lesson 2: Typescript.Base types](./lessons/ts_1)
 
 
 ## Resources
