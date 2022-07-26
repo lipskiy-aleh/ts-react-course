@@ -1,6 +1,7 @@
 # Typescript.
 
 ## [Home Work](https://disk.yandex.ru/d/XeyP97vD4ckjlQ)  
+[Explanation](./hw.js)
   
 **Deadline: 24.07.2022**  
 
