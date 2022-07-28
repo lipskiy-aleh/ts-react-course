@@ -14,7 +14,7 @@
 * [Array method Big O](https://dev.to/lukocastillo/time-complexity-big-0-for-javascript-array-methods-and-examples-mlg)
 * [Example of Big O for different algorithms](https://stackoverflow.com/questions/1592649/examples-of-algorithms-which-has-o1-on-log-n-and-olog-n-complexities)
 * [What is Big O Notation Explained: Space and Time Complexity](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/#:~:text=%E2%80%9CBig%20O%20notation%20is%20a,a%20particular%20value%20or%20infinity)
-# [Currying function](https://javascript.info/currying-partials)
+* [Currying function](https://javascript.info/currying-partials)
   
 ### Algorithm:
 * [Learn DS & Algorithms](https://www.programiz.com/dsa)
