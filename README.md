@@ -5,6 +5,7 @@
 * [Lesson 2: Typescript.Base types](./lessons/ts_1)
 * [Lesson 3: Typescript.Advance types](./lessons/ts_2)
 * [Lesson 4: Functional programming + BigO](./lessons/fp)
+* [Lesson 5: React](./lessons/react)
 
 
 ## Resources
