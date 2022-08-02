@@ -19,7 +19,7 @@ interface Tab {
 * [Option 1](https://slides.com/aleh_lipski/deck-7e7c55)  
 * [Option 2](https://disk.yandex.ru/i/U_hrmOyHNSzS1w)  
   
-## [Lesson video](https://disk.yandex.ru/i/j-hFbTwhh4gskg)
+## [Lesson video](https://disk.yandex.ru/i/Dsu8VriP9aMCAg)
 
 ## Useful links:
 * [21 Best Practices for a Clean React Project [EN]](https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb)
